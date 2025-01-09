@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a scenario where both ZeroDivisionError and TypeError exceptions can occur.  The code includes error handling to gracefully manage these situations, providing informative error messages to the user.  The 'bugSolution.py' file offers the same functionality with improved clarity and efficiency.
